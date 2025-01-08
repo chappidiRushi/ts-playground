@@ -15,7 +15,7 @@
       ],
       "cwd": "${workspaceRoot}",
       "internalConsoleOptions": "openOnSessionStart",
-      // "runtimeVersion": "18"
+      "runtimeVersion": "18"
     },
   ]
 }
