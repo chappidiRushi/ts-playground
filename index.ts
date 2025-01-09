@@ -1,1 +1,5 @@
-console.log("hello world");
+import { initBot } from "./src/controller/botController";
+// asdfsafd
+// asdfsadfsa/
+
+initBot();
